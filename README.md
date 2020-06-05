@@ -2,5 +2,5 @@
 
 ## 安装latex
 略
-## 目标
-简历需要不断改进
+## 参考
+[参考简历一](https://github.com/NanguangChou/latex_resume)
